@@ -1,0 +1,6 @@
+{
+  "string": "hello",
+  "number": 1.23,
+  "boolean": true,
+  "null": null
+}
